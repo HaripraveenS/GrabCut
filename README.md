@@ -1,6 +1,6 @@
 
 
-# “GrabCut” — Interactive Foreground Extraction using Iterated Graph Cuts
+# GrabCut — Interactive Foreground Extraction using Iterated Graph Cuts
 
 ### GrabCut 
 - GrabCut is an image segmentation method based on **graph cuts**. 
